@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Shantanu Jain, a graduate student in computer science at Columbia University, with a focus in machine learning. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
+
+I'm currently working as a Software Engineering Intern at Cohesity. My research interests lie in the domain of Deep Learning, Big Data and Cloud computing. 
+
 <!--
 **shantanu-jain-2142/shantanu-jain-2142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
