@@ -4,6 +4,12 @@ I am Shantanu Jain, a graduate student in computer science at Columbia Universit
 
 I'm currently working as a Software Engineering Intern at Cohesity. My research interests lie in the domain of Deep Learning, Big Data and Cloud computing. 
 
+Before coming to Columbia, I was working as a full-time software engineer at Siemens PLM R&D centre. My primary responsibilities included maintaining and deploying the entire code stack on AWS, with a focus on scalability. 
+
+<!-- It was during my internships that I developed an interest in Machine Learning.  -->
+
+
+
 <!--
 **shantanu-jain-2142/shantanu-jain-2142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
