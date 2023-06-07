@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Shantanu Jain, a graduate student in computer science at Columbia University, with a focus in machine learning. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
+I am Shantanu Jain, a graduate in Computer Science from Columbia University, with a focus in Distributed systems. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
 
-I'm currently working as a Software Engineering Intern at Cohesity. My research interests lie in the domain of Deep Learning, Big Data and Cloud computing. 
+My past experiences include working as a full-time Software Engineer at Cohesity Inc., wherein I worked in the data archival team responsible for data migration to and from cold tier, along with end to end encrytion. Along with that, I also worked as a teaching assistant for the course titled "Deep Learning" under Prof. Iddo Drori.  My research interests lie in the domain of Distributed systems, cloud computing and big data.
 
 Before coming to Columbia, I was working as a full-time software engineer at Siemens PLM R&D centre. My primary responsibilities included maintaining and deploying the entire code stack on AWS, with a focus on scalability. 
 
